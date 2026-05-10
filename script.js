@@ -3,7 +3,7 @@ function checkPassword() {
     var password = passwordInput.value;
 
 //pw  
-  if (password === 'pw') {
+  if (password === '@ek676767123') {
         document.getElementById('password-container').style.display = 'none';
         document.getElementById('content-container').style.display = 'block';
     } else {
